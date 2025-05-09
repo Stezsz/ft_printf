@@ -60,8 +60,8 @@ int main(void)
 
 ## Conclusion
 
-`Libft` acts as a **personal C toolkit**, essential for all upcoming 42 projects.
-It teaches discipline, good coding practices, and provides a solid understanding of C programming fundamentals.
+`ft_printf` is a great opportunity to explore **string formatting**, **memory handling**, and **custom output logic** in C.
+It lays a strong foundation for more complex low-level programming and parser-based projects.
 
 ---
 
